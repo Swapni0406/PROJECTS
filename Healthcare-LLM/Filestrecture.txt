@@ -1,0 +1,17 @@
+healthcare-llm-backend-only/
+├── app/
+│   ├── main.py              # FastAPI app with 4 API endpoints
+│   ├── models.py            # Pydantic data models
+│   ├── services/
+│   │   ├── llm_service.py   # OpenAI GPT-4 integration
+│   │   └── report_parser.py # PDF/OCR document parser
+│   └── utils/
+│       └── prompts.py       # LLM prompt templates
+├── data/
+│   └── sample_reports/      # Test medical reports
+├── requirements.txt         # Python dependencies
+├── .env.example            # Environment template
+├── test_api.py             # API test script
+├── README.md               # Full documentation
+├── QUICKSTART.md           # 5-minute setup guide
+└── LICENSE                 # MIT license
