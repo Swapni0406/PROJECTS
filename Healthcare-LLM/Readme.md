@@ -437,8 +437,8 @@ This is a portfolio project, but feel free to:
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-GitHub: https://github.com/yourusername/healthcare-llm-backend
+Your Name - swapnilrathoreswapnil@gmail.com
+Portfolio - 
 
 ---
 
